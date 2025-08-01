@@ -1,11 +1,11 @@
-# 🧠 Mental Health Chatbot
+#  Mental Health Chatbot
 
 **AI Therapist Demo**  
 A voice- and text-based AI-powered mental health support chatbot that detects user sentiment, responds empathetically, and connects to emergency services when needed. This demo simulates core functionality for future integration into a physical companion product.
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
