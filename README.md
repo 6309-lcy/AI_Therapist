@@ -34,7 +34,8 @@ A voice- and text-based AI-powered mental health support chatbot that detects us
 ---
 
 ##  Project Structure
-mental_health_chatbot/
+```
+mental_health_chatbot/ 
 │
 ├── app/
 │ ├── models/ # User profiles, sentiment analyzer
@@ -53,7 +54,7 @@ mental_health_chatbot/
 ├── .env # Environment variables (not tracked)
 ├── .gitignore # Git ignored files
 └── requirements.txt # Python dependencies
-
+```
 ---
 
 ## Usage
