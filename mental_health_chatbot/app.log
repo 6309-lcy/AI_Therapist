@@ -1,0 +1,182 @@
+2025-07-30 17:49:32,136 - INFO - server listening on 0.0.0.0:5001
+2025-07-30 17:49:32,145 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-30 17:49:32,145 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-30 17:49:32,153 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-30 17:49:33,912 - WARNING -  * Debugger is active!
+2025-07-30 17:49:33,914 - INFO -  * Debugger PIN: 396-571-179
+2025-07-30 17:49:33,998 - INFO - 127.0.0.1 - - [30/Jul/2025 17:49:33] "GET / HTTP/1.1" 200 -
+2025-07-30 17:49:34,074 - INFO - 127.0.0.1 - - [30/Jul/2025 17:49:34] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-30 17:49:34,572 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\__init__.py', reloading
+2025-07-30 17:49:34,859 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\text_to_speech\\client.py', reloading
+2025-07-30 17:49:34,864 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\core\\client_wrapper.py', reloading
+2025-07-30 17:49:34,880 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\httpx\\_decoders.py', reloading
+2025-07-30 17:49:34,904 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\conversational_ai\\client.py', reloading
+2025-07-30 17:49:34,906 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\forced_alignment\\client.py', reloading
+2025-07-30 17:49:34,907 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\speech_to_text\\client.py', reloading
+2025-07-30 17:49:34,908 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\webhooks\\client.py', reloading
+2025-07-30 17:49:34,909 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\pronunciation_dictionaries\\client.py', reloading
+2025-07-30 17:49:34,912 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\usage\\client.py', reloading
+2025-07-30 17:49:34,914 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\audio_native\\client.py', reloading
+2025-07-30 17:49:34,916 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\models\\client.py', reloading
+2025-07-30 17:49:34,917 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\dubbing\\client.py', reloading
+2025-07-30 17:49:34,920 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\studio\\client.py', reloading
+2025-07-30 17:49:34,921 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\voices\\client.py', reloading
+2025-07-30 17:49:34,924 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\user\\client.py', reloading
+2025-07-30 17:49:34,925 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\text_to_voice\\client.py', reloading
+2025-07-30 17:49:34,928 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\speech_to_speech\\client.py', reloading
+2025-07-30 17:49:34,931 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\text_to_dialogue\\client.py', reloading
+2025-07-30 17:49:34,933 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\samples\\client.py', reloading
+2025-07-30 17:49:34,934 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\audio_isolation\\client.py', reloading
+2025-07-30 17:49:34,935 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\text_to_sound_effects\\client.py', reloading
+2025-07-30 17:49:34,936 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\history\\client.py', reloading
+2025-07-30 17:49:35,105 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-30 17:49:37,004 - WARNING -  * Debugger is active!
+2025-07-30 17:49:37,007 - INFO -  * Debugger PIN: 396-571-179
+2025-07-30 17:54:07,729 - INFO -  * Detected change in 'C:\\CTGOODJOBS\\mental_health_chatbot\\app.py', reloading
+2025-07-30 17:54:07,730 - INFO -  * Detected change in 'C:\\CTGOODJOBS\\mental_health_chatbot\\app.py', reloading
+2025-07-30 17:54:08,147 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-30 17:54:10,196 - WARNING -  * Debugger is active!
+2025-07-30 17:54:10,199 - INFO -  * Debugger PIN: 396-571-179
+2025-07-30 17:54:42,196 - INFO - server listening on 0.0.0.0:5001
+2025-07-30 17:54:42,211 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-30 17:54:42,211 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-30 17:54:42,217 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-30 17:54:43,994 - WARNING -  * Debugger is active!
+2025-07-30 17:54:43,997 - INFO -  * Debugger PIN: 396-571-179
+2025-07-30 17:55:29,688 - INFO - server listening on 0.0.0.0:5001
+2025-07-30 17:55:29,710 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-30 17:55:29,710 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-30 17:55:29,720 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-30 17:55:31,441 - WARNING -  * Debugger is active!
+2025-07-30 17:55:31,444 - INFO -  * Debugger PIN: 396-571-179
+2025-07-30 17:57:00,239 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\socket.py', reloading
+2025-07-30 17:57:00,769 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-30 17:57:02,772 - WARNING -  * Debugger is active!
+2025-07-30 17:57:02,776 - INFO -  * Debugger PIN: 396-571-179
+2025-07-30 17:57:55,549 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\elevenlabs\\conversational_ai\\conversation.py', reloading
+2025-07-30 17:57:56,784 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-30 17:57:58,672 - WARNING - Port 5001 in use, trying port 5002
+2025-07-30 17:57:58,673 - INFO - server listening on 0.0.0.0:5002
+2025-07-30 17:57:58,673 - INFO - WebSocket server started on port 5002
+2025-07-30 17:57:58,677 - WARNING -  * Debugger is active!
+2025-07-30 17:57:58,680 - INFO -  * Debugger PIN: 396-571-179
+2025-07-30 17:58:25,498 - INFO - server listening on 0.0.0.0:5001
+2025-07-30 17:58:25,498 - INFO - WebSocket server started on port 5001
+2025-07-30 17:58:25,520 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-30 17:58:25,520 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-30 17:58:25,530 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-30 17:58:27,336 - WARNING - Port 5001 in use, trying port 5002
+2025-07-30 17:58:27,337 - INFO - server listening on 0.0.0.0:5002
+2025-07-30 17:58:27,337 - INFO - WebSocket server started on port 5002
+2025-07-30 17:58:27,344 - WARNING -  * Debugger is active!
+2025-07-30 17:58:27,346 - INFO -  * Debugger PIN: 396-571-179
+2025-07-30 17:58:58,000 - INFO - 127.0.0.1 - - [30/Jul/2025 17:58:58] "GET / HTTP/1.1" 200 -
+2025-07-30 17:58:58,157 - INFO - 127.0.0.1 - - [30/Jul/2025 17:58:58] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-30 17:58:59,265 - INFO - 127.0.0.1 - - [30/Jul/2025 17:58:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-30 17:59:46,992 - INFO - connection open
+2025-07-30 17:59:46,992 - ERROR - connection handler failed
+Traceback (most recent call last):
+  File "C:\Users\lcy20\anaconda3\envs\ctgoodjobs\lib\site-packages\websockets\asyncio\server.py", line 376, in conn_handler
+    await self.handler(connection)
+TypeError: websocket_handler() missing 1 required positional argument: 'path'
+2025-07-30 18:00:03,903 - INFO - 127.0.0.1 - - [30/Jul/2025 18:00:03] "GET / HTTP/1.1" 200 -
+2025-07-30 18:00:03,918 - INFO - 127.0.0.1 - - [30/Jul/2025 18:00:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-30 18:00:30,070 - INFO - connection open
+2025-07-30 18:00:30,070 - ERROR - connection handler failed
+Traceback (most recent call last):
+  File "C:\Users\lcy20\anaconda3\envs\ctgoodjobs\lib\site-packages\websockets\asyncio\server.py", line 376, in conn_handler
+    await self.handler(connection)
+TypeError: websocket_handler() missing 1 required positional argument: 'path'
+2025-07-30 18:00:37,491 - INFO - connection open
+2025-07-30 18:00:37,491 - ERROR - connection handler failed
+Traceback (most recent call last):
+  File "C:\Users\lcy20\anaconda3\envs\ctgoodjobs\lib\site-packages\websockets\asyncio\server.py", line 376, in conn_handler
+    await self.handler(connection)
+TypeError: websocket_handler() missing 1 required positional argument: 'path'
+2025-07-30 18:00:37,909 - INFO - connection open
+2025-07-30 18:00:37,909 - ERROR - connection handler failed
+Traceback (most recent call last):
+  File "C:\Users\lcy20\anaconda3\envs\ctgoodjobs\lib\site-packages\websockets\asyncio\server.py", line 376, in conn_handler
+    await self.handler(connection)
+TypeError: websocket_handler() missing 1 required positional argument: 'path'
+2025-07-30 18:00:38,081 - INFO - connection open
+2025-07-30 18:00:38,082 - ERROR - connection handler failed
+Traceback (most recent call last):
+  File "C:\Users\lcy20\anaconda3\envs\ctgoodjobs\lib\site-packages\websockets\asyncio\server.py", line 376, in conn_handler
+    await self.handler(connection)
+TypeError: websocket_handler() missing 1 required positional argument: 'path'
+2025-07-30 18:00:38,189 - INFO - connection open
+2025-07-30 18:00:38,189 - ERROR - connection handler failed
+Traceback (most recent call last):
+  File "C:\Users\lcy20\anaconda3\envs\ctgoodjobs\lib\site-packages\websockets\asyncio\server.py", line 376, in conn_handler
+    await self.handler(connection)
+TypeError: websocket_handler() missing 1 required positional argument: 'path'
+2025-07-30 18:00:38,344 - INFO - connection open
+2025-07-30 18:00:38,345 - ERROR - connection handler failed
+Traceback (most recent call last):
+  File "C:\Users\lcy20\anaconda3\envs\ctgoodjobs\lib\site-packages\websockets\asyncio\server.py", line 376, in conn_handler
+    await self.handler(connection)
+TypeError: websocket_handler() missing 1 required positional argument: 'path'
+2025-07-30 18:00:38,639 - INFO - connection open
+2025-07-30 18:00:38,640 - ERROR - connection handler failed
+Traceback (most recent call last):
+  File "C:\Users\lcy20\anaconda3\envs\ctgoodjobs\lib\site-packages\websockets\asyncio\server.py", line 376, in conn_handler
+    await self.handler(connection)
+TypeError: websocket_handler() missing 1 required positional argument: 'path'
+2025-07-30 18:00:43,193 - INFO - connection open
+2025-07-30 18:00:43,193 - ERROR - connection handler failed
+Traceback (most recent call last):
+  File "C:\Users\lcy20\anaconda3\envs\ctgoodjobs\lib\site-packages\websockets\asyncio\server.py", line 376, in conn_handler
+    await self.handler(connection)
+TypeError: websocket_handler() missing 1 required positional argument: 'path'
+2025-07-30 18:06:12,691 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\werkzeug\\_internal.py', reloading
+2025-07-30 18:06:12,723 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\werkzeug\\datastructures\\mixins.py', reloading
+2025-07-30 18:06:12,837 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\site-packages\\werkzeug\\datastructures\\file_storage.py', reloading
+2025-07-30 18:06:12,888 - INFO -  * Detected change in 'C:\\Users\\lcy20\\anaconda3\\envs\\ctgoodjobs\\Lib\\logging\\__init__.py', reloading
+2025-07-30 18:06:13,476 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-30 18:06:15,590 - WARNING - Port 5001 in use, trying port 5002
+2025-07-30 18:06:15,590 - INFO - server listening on 0.0.0.0:5002
+2025-07-30 18:06:15,590 - INFO - WebSocket server started on port 5002
+2025-07-30 18:06:15,596 - WARNING -  * Debugger is active!
+2025-07-30 18:06:15,599 - INFO -  * Debugger PIN: 396-571-179
+2025-07-30 18:06:45,187 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.28.214.165:5000
+2025-07-30 18:06:45,188 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-30 18:07:09,311 - INFO - 127.0.0.1 - - [30/Jul/2025 18:07:09] "GET / HTTP/1.1" 200 -
+2025-07-30 18:07:09,484 - INFO - 127.0.0.1 - - [30/Jul/2025 18:07:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-30 18:08:00,682 - INFO - 127.0.0.1 - - [30/Jul/2025 18:08:00] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-07-30 18:08:29,948 - INFO - 127.0.0.1 - - [30/Jul/2025 18:08:29] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-07-30 18:08:31,704 - INFO - 127.0.0.1 - - [30/Jul/2025 18:08:31] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-07-30 18:08:37,817 - INFO - 127.0.0.1 - - [30/Jul/2025 18:08:37] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-07-30 18:14:01,802 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.28.214.165:5000
+2025-07-30 18:14:01,802 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-30 18:14:03,913 - INFO - 127.0.0.1 - - [30/Jul/2025 18:14:03] "GET / HTTP/1.1" 200 -
+2025-07-30 18:14:03,975 - INFO - 127.0.0.1 - - [30/Jul/2025 18:14:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-30 18:14:15,984 - ERROR - Error initializing Conversation: Conversation.__init__() missing 1 required keyword-only argument: 'audio_interface'
+2025-07-30 18:14:15,985 - INFO - 127.0.0.1 - - [30/Jul/2025 18:14:15] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-07-30 18:18:04,679 - ERROR - Error initializing Conversation: Conversation.__init__() missing 1 required keyword-only argument: 'audio_interface'
+2025-07-30 18:18:04,681 - INFO - 127.0.0.1 - - [30/Jul/2025 18:18:04] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-07-30 18:18:06,264 - ERROR - Error initializing Conversation: Conversation.__init__() missing 1 required keyword-only argument: 'audio_interface'
+2025-07-30 18:18:06,265 - INFO - 127.0.0.1 - - [30/Jul/2025 18:18:06] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-07-30 18:18:09,067 - ERROR - Error initializing Conversation: Conversation.__init__() missing 1 required keyword-only argument: 'audio_interface'
+2025-07-30 18:18:09,067 - INFO - 127.0.0.1 - - [30/Jul/2025 18:18:09] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-07-30 18:20:59,162 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.28.214.165:5000
+2025-07-30 18:20:59,162 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-30 18:21:00,219 - INFO - 127.0.0.1 - - [30/Jul/2025 18:21:00] "GET / HTTP/1.1" 200 -
+2025-07-30 18:21:00,298 - INFO - 127.0.0.1 - - [30/Jul/2025 18:21:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-30 18:21:04,254 - ERROR - Error initializing Conversation: Conversation.__init__() missing 1 required keyword-only argument: 'audio_interface'
+2025-07-30 18:21:04,254 - INFO - 127.0.0.1 - - [30/Jul/2025 18:21:04] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-07-30 18:22:03,981 - ERROR - Error initializing Conversation: Conversation.__init__() missing 1 required keyword-only argument: 'audio_interface'
+2025-07-30 18:22:03,982 - INFO - 127.0.0.1 - - [30/Jul/2025 18:22:03] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -

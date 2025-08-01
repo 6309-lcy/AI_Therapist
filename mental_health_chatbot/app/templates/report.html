@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Report</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>User Report</h1>
+        <p><strong>User ID:</strong> {{ report.user_id }}</p>
+        <p><strong>Average Depression Level:</strong> {{ '%.2f' % report.average_score }}</p>
+        <h2>Identified Problems</h2>
+        <ul>
+        {% for problem in report.problems %}
+            <li>{{ problem.issue }} (Severity: {{ '%.2f' % problem.severity }})</li>
+        {% endfor %}
+        </ul>
+        <h2>Suggestions</h2>
+        <ul>
+        {% for suggestion in report.suggestions %}
+            <li>{{ suggestion }}</li>
+        {% endfor %}
+        </ul>
+        <p><strong>Total Conversations:</strong> {{ report.conversation_count }}</p>
+        <a href="{{ url_for('routes.chat') }}" class="btn">Back to Chat</a>
+    </div>
+</body>
+</html>

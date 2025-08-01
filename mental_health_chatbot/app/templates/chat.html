@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat - Mental Health Companion</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="{{ url_for('static', filename='js/voice_input.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/voice_output.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</head>
+<body>
+    <div class="container chat-container">
+        <h1>Chat with Your Companion</h1>
+        <div id="chat-box"></div>
+        <div class="input-group">
+            <input type="text" id="user-input" placeholder="Type or speak your message...">
+            <button onclick="startVoiceInput()">🎤 Speak</button>
+            <button onclick="sendMessage()">Send</button>
+            <button onclick="requestStaff()">Talk to Staff</button>
+            <a href="{{ url_for('routes.report', user_id='default_user') }}" class="btn">View Report</a>
+        </div>
+    </div>
+</body>
+</html>
